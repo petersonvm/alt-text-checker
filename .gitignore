@@ -3,3 +3,14 @@ dist
 node_modules
 .vscode-test/
 *.vsix
+.env
+npm-debug.log
+yarn-error.log
+lerna-debug.log*
+.DS_Store
+*.tgz
+.idea
+*.iml
+*.log
+*.tsbuildinfo
+coverage
